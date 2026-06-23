@@ -3,5 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <h1>html adalah</h1>
-  <p> kontol bapak kau pecah </p>
+  <p>html adalah pemrograman yang digunakan untuk membuat suatu website seprrti yang kita gunakan sehari hari.</p>
+
+ 
