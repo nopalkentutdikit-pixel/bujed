@@ -8,3 +8,8 @@
 
 # Apa saja hal hal yang perlu dipelajari untuk membuat web menggunakan html?
  
+  <p>hal yang dibutuhkan antara lain</p>
+ <p>-web yang mendukung pembuatan html seperti github,codepage,dll</p>
+ <
+ 
+ 
